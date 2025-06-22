@@ -19,13 +19,13 @@ You can also refer to the `requirements.txt` to check the framework version used
 
 ## Security Update
 
-According to the National Vulnerability Database, the bug CVE-2019-6975 is present on the Django 2.1.0 version of it.
+According to the National Vulnerability Database, the bug CVE-2019-6975 is present on the Django 2.1.0 version.
 So, this repo was updated to 2.1.7, which is a bug-free version of it.
 
 You can find more information here: [CVE-2019-6975](https://nvd.nist.gov/vuln/detail/CVE-2019-6975)
 
 ## Credits
-[David Lares S](https;//twitter.com/davidlares3)
+[David Lares S](https://davidlares.com)
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
